@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm a Cyber Security Student <br>
-  Like to learn about network security knowledge.<br>
+  Like to learn new things.<br>
   
 </p>
 
